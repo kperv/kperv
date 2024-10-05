@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Ksenia!
-- 👀 I’m interested in natural language processing and computational linguistics.
-- 🌱 I’m exploring the field of natural lanaguage understanding.
-- 💞️ I enjoy tasks on language analysis, visualization, classification and generation.
+- 👋 Hi, I’m Ksenia, ML Engineer
+- 👀 I’m interested in data analysis, classical ML, MLOps.
